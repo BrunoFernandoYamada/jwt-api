@@ -1,6 +1,6 @@
 # jwt-api
 
-API for authenticate service
+API for authenticate and singup service
 
 have 2 endpoints:
 
@@ -10,7 +10,7 @@ have 2 endpoints:
 * /api/auth/signup
 - Responsible for sign up in the Application
 
-When starts the application in the first time, it's create a default user admin with follows credentials:
+When starts the application in the first time, it's create a default user admin with followings credentials:
 Username: admin
 Password: admin1234
 
