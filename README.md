@@ -19,5 +19,7 @@ It's create too 3 roles in the database:
 - ROLE_MODERATOR
 - ROLE_ADMIN
 
+References: https://bezkoder.com/spring-boot-jwt-auth-mongodb/
+
 
 
